@@ -12,7 +12,7 @@ Tube Diameter : 0.019m (19mm)
 ##Battery
 Lithium Ion TrustFire 14500 
 
-0.05 m x 0.14 m x 0.14 m
+0.05 m x 0.014 m x 0.014 m
 
 3.5V
 
